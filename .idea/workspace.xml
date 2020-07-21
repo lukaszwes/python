@@ -11,16 +11,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bc74768-e750-4a09-89c7-e6139df7d375" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/credentials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie15.92.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie15.93.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie15.94.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie15.95.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie16.100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadanie16.96.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir_test/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir_test/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir_test/first_dir/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir_test/first_dir/sec_dir/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/10.1_czy klucz jest w slowniku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/10.2_czy klucz jest w slowniku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/11.1_wartosci slownika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/11.2_wartosci slownika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/12.1_wartosci slownika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/12.2_wartosci slownika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/13.1_palindromy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/14.1_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/14.2_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/15.1_slicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/15.2_slicy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/16.1_slicy praktycznie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/16.2_slicy praktycznie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/17.1_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/17.2_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/18.1_min i max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/19.2_podzielnosc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/2.1_lista unikalnych elementow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/2.2_lista unikalnych elementow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/21.2_list comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/24.2_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/25.2_kopiowanie listy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/27.2_operacje na plikach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/3.1_modyfikacja stringa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/32.1_filter i map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/33.1_dekoratory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/34.2_generatory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/4.1_lista vs tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/41.1_fobonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/42.1_ rekurencja na plikach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/43.1_wyszukiwanie binarne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/5.1_lista wielowymiarowa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/5.2_lista wielowymiarowa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/6.1_zagniezdzone struktury.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/6.2_zagniezdzone struktury.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytania rekrutacyjne/przeczytaj_mnie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocketRace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.119.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.121.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie20.141.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie17.102.py" beforeDir="false" afterPath="$PROJECT_DIR$/zadanie17.102.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +93,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytania rekrutacyjne" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projekty\python\pytania rekrutacyjne" />
       <recent name="C:\projekty\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zadanie16.100">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.43.1_wyszukiwanie binarne">
+    <configuration name="2.1_lista unikalnych elementow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytania rekrutacyjne" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytania rekrutacyjne/2.1_lista unikalnych elementow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie15.94" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="34.2_generatory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytania rekrutacyjne" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie15.94.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytania rekrutacyjne/34.2_generatory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie15.95" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="41.1_fobonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytania rekrutacyjne" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie15.95.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytania rekrutacyjne/41.1_fobonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie16.100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="42.1_ rekurencja na plikach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +174,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytania rekrutacyjne" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie16.100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytania rekrutacyjne/42.1_ rekurencja na plikach.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie16.96" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="43.1_wyszukiwanie binarne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytania rekrutacyjne" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadanie16.96.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytania rekrutacyjne/43.1_wyszukiwanie binarne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadanie16.100" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.zadanie16.96" />
-        <item itemvalue="Python.zadanie15.95" />
-        <item itemvalue="Python.zadanie15.94" />
+        <item itemvalue="Python.43.1_wyszukiwanie binarne" />
+        <item itemvalue="Python.2.1_lista unikalnych elementow" />
+        <item itemvalue="Python.42.1_ rekurencja na plikach" />
+        <item itemvalue="Python.41.1_fobonacci" />
+        <item itemvalue="Python.34.2_generatory" />
       </list>
     </recent_temporary>
   </component>
@@ -205,45 +248,53 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="717" y="312" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1593769940183" />
-    <state x="1022" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594717108116">
+    <state x="1022" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595248245359">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1022" y="502" key="#com.intellij.fileTypes.FileTypeChooser/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594717108116" />
-    <state width="2539" height="340" key="GridCell.Tab.0.bottom" timestamp="1594736127110">
+    <state x="1022" y="502" key="#com.intellij.fileTypes.FileTypeChooser/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595248245359" />
+    <state width="2539" height="350" key="GridCell.Tab.0.bottom" timestamp="1595250960938">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="340" key="GridCell.Tab.0.bottom/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594736127110" />
-    <state width="2539" height="340" key="GridCell.Tab.0.center" timestamp="1594736127110">
+    <state width="2539" height="350" key="GridCell.Tab.0.bottom/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595250960938" />
+    <state width="2539" height="350" key="GridCell.Tab.0.center" timestamp="1595250960938">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="340" key="GridCell.Tab.0.center/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594736127110" />
-    <state width="2539" height="340" key="GridCell.Tab.0.left" timestamp="1594736127110">
+    <state width="2539" height="350" key="GridCell.Tab.0.center/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595250960938" />
+    <state width="2539" height="350" key="GridCell.Tab.0.left" timestamp="1595250960937">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="340" key="GridCell.Tab.0.left/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594736127110" />
-    <state width="2539" height="340" key="GridCell.Tab.0.right" timestamp="1594736127110">
+    <state width="2539" height="350" key="GridCell.Tab.0.left/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595250960937" />
+    <state width="2539" height="350" key="GridCell.Tab.0.right" timestamp="1595250960938">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="340" key="GridCell.Tab.0.right/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594736127110" />
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1594726403480">
+    <state width="2539" height="350" key="GridCell.Tab.0.right/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595250960938" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1595178298350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.bottom/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594726403480" />
-    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1594726403480">
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595178298350" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1595178298350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.center/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594726403480" />
-    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1594726403480">
+    <state width="2539" height="492" key="GridCell.Tab.1.center/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595178298350" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1595178298350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.left/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594726403480" />
-    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1594726403480">
+    <state width="2539" height="492" key="GridCell.Tab.1.left/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595178298350" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1595178298350">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="492" key="GridCell.Tab.1.right/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1594726403480" />
-    <state x="1166" y="313" key="SettingsEditor" timestamp="1593776168748">
+    <state width="2539" height="492" key="GridCell.Tab.1.right/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595178298350" />
+    <state x="1166" y="313" key="SettingsEditor" timestamp="1595079307543">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1166" y="313" key="SettingsEditor/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1593776168748" />
+    <state x="1166" y="313" key="SettingsEditor/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595079307543" />
+    <state x="987" y="299" width="585" height="801" key="find.popup" timestamp="1595178355329">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="299" width="585" height="801" key="find.popup/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595178355329" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1595180070037">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.532.1440.860/0.0.2560.1400@0.0.2560.1400" timestamp="1595180070037" />
   </component>
 </project>
